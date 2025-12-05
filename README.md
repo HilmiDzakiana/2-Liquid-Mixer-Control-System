@@ -98,7 +98,7 @@ Industry 4.0 mindset
 
 ![HMI](Media/HMI/HMI_Main.png)
 
-👤 Author
+## 👤 Author
 
 Hilmi Dzakiana Maulidia
 hilmi14dzakiana@gmail.com
