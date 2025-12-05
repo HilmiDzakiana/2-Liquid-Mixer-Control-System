@@ -1,4 +1,4 @@
-# Automated Mixing Control System — PLC S7-1200, Analog I/O, SCADA (TIA Portal V20)
+# Automated 2 Liquid Mixing Control System — PLC S7-1200, HMI TP700 Comfort (TIA Portal V20)
 
 This project demonstrates an industrial mixing automation system using Siemens PLC S7-1200, Analog Input/Output, PLC SIM, and an HMI (TP700 Comfort).
 The system includes motor control, level simulation, analog processing, and full SCADA/HMI visualization.
