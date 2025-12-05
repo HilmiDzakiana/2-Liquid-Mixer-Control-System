@@ -86,17 +86,17 @@ Industry 4.0 mindset
 ![Network1](Media/Ladder/Network1_2.png)
 
 ### Network 3 – Valve A Control (Analog 4-20mA)
-![Network3](media/ladder/Network3.png)
+![Network3](Media/Ladder/Network3.png)
 
 ### Network 4 – Valve B Control (Analog 4-20mA)
-![Network4](media/ladder/Network4.png)
+![Network4](Media/Ladder/Network4.png)
 
 ### Network 5 – Liquid B Pump Start/Stop
-![Network5](media/ladder/Network5.png)
+![Network5](Media/Ladder/Network5.png)
 
 ## HMI main screen
 
-![Network5](media/HMI/HMI_Main.png)
+![HMI](Media/HMI/HMI_Main.png)
 
 👤 Author
 
